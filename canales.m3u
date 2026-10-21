@@ -3,7 +3,7 @@
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://38.134.250.110:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-name="CartoonNetworkLatinAmericaHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cartoon-network-ar.png" group-title="General",CartoonNetworkLatinAmericaHD
+#EXTINF:1 tvg-name="CartoonNetworkLatinAmericaHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cartoon-network-ar.png" group-title="General",CartoonNetworkLatinAmericaHD
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://45.173.12.70:8000/play/a0fj
