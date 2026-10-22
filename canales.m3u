@@ -7,7 +7,7 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://45.173.12.70:8000/play/a0fj
-#EXTINF:-1 tvg-name="Bitme" tvg-logo="https://raw.githubusercontent.com/gustavodlt1/argtv/refs/heads/main/icons/bitme.png" group-title="General",Bitme
+#EXTINF:-1 tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/bandamax-mx.png" group-title="General",bandamax
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0g9/index.m3u8
