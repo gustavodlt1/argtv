@@ -19,3 +19,7 @@ http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1 tvg-name="Bitme" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/bitme-lam.png" group-title="General",Bitme
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ga/index.m3u8
