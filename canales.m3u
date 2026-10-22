@@ -3,6 +3,10 @@
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-turbo-ar.png" group-title="General",DiscoveryTurboLatinAmericaSD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p8
 #EXTINF:1 tvg-name="CartoonNetworkLatinAmericaHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png" group-title="General",CartoonNetworkLatinAmericaHD
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
