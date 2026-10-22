@@ -99,3 +99,7 @@ http://181.78.79.131:8000/play/a0mw
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
+#EXTINF:11 tvg-logo="https://raw.githubusercontent.com/gustavodlt1/argtv/refs/heads/main/icons/A%26E.png" group-title="Entretenimiento",AE
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0al/index.m3u8
