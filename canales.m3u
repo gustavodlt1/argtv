@@ -27,3 +27,7 @@ http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pk
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cine-canal-ar.png" group-title="General",Cinecanal
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pp
