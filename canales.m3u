@@ -83,3 +83,7 @@ http://181.78.79.131:8000/play/a0s8
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qy
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/space-ar.png" group-title="Peliculas",Space HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q2
