@@ -79,6 +79,10 @@ http://181.78.79.131:8000/play/a0s3
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0s8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png" group-title="Deportes",TNT SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mo
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/hbo-xtreme-ar.png" group-title="Peliculas",HBO Xtreme HD
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
@@ -87,3 +91,11 @@ http://181.78.79.131:8000/play/a0qy
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/universal-tv-ar.png" group-title="Peliculas",UNIVERSAL CHANNEL HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mw
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/warner-channel-ar.png" group-title="Peliculas",Warner TV HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pz
