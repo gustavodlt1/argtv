@@ -111,3 +111,9 @@ http://181.78.8.199:8000/play/a0al/index.m3u8
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:11 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-channel-ar.png" group-title="Entretenimiento",Disney Channel
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+
