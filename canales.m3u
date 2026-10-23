@@ -46,7 +46,7 @@ http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png" group-title="General",Adult Swim
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pk
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
 #EXTINF:-1 tvg-name="Adult Swim alt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png" group-title="General",Adult Swim
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
