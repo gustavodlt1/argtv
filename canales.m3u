@@ -23,6 +23,10 @@ http://181.78.79.131:8000/play/a0qm
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://45.173.12.70:8000/play/a0fj
+#EXTINF:11 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/disney-channel-ar.png" group-title="Entretenimiento",Disney Channel
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/bandamax-mx.png" group-title="General",Bandamax
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
@@ -111,9 +115,6 @@ http://181.78.8.199:8000/play/a0al/index.m3u8
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:6060/play/a032/index.m3u8
-#EXTINF:11 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/disney-channel-ar.png" group-title="Entretenimiento",Disney Channel
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
 
 
